@@ -135,7 +135,16 @@ streamlit run app/dashboard.py
 
 ## 📸 Dashboard Preview
 
-*(Add screenshots here)*
+## 📸 Dashboard Preview
+
+### 🔹 Main Dashboard
+![Dashboard Overview](images/dashboard_overview.png)
+
+### 🔹 Funnel Analysis
+![Funnel Analysis](images/funnel_analysis.png)
+
+### 🔹 Lead Data View
+![Data Table](images/data_table.png)
 
 ---
 
