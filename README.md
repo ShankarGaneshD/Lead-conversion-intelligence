@@ -147,6 +147,9 @@ streamlit run app/dashboard.py
 ![Data Table](data_table.png)
 
 ---
+## 🌐 Live Demo  
+[Click here to view the app](https://lead-conversion-intelligence-r7hmdhcwaihcuwsgprzolc.streamlit.app/)
+
 
 ## 💼 Business Impact
 
