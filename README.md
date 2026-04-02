@@ -138,13 +138,13 @@ streamlit run app/dashboard.py
 ## 📸 Dashboard Preview
 
 ### 🔹 Main Dashboard
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](dashboard_overview.png)
 
 ### 🔹 Funnel Analysis
-![Funnel Analysis](images/funnel_analysis.png)
+![Funnel Analysis](funnel_analysis.png)
 
 ### 🔹 Lead Data View
-![Data Table](images/data_table.png)
+![Data Table](data_table.png)
 
 ---
 
